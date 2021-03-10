@@ -1,0 +1,2 @@
+a = 'Hallo world'
+print 
